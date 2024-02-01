@@ -88,8 +88,10 @@
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link text-white" aria-current="page">
-                            <i class="bi bi-gear-fill"></i> Master System </a>
-
+                            <i class="bi bi-gear"></i> Master System </a>
+                    </li><li class="nav-item">
+                        <a href="setting-template" class="nav-link text-white" aria-current="page">
+                            <i class="bi bi-book"></i> Setting Template </a>
                     </li>
                 </ul>
             </div>
